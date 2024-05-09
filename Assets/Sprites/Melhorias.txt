@@ -1,0 +1,5 @@
+- Restart, sem tela inicial - Criar cena para a tela inicial
+- Pause do jogo - conform video https://www.youtube.com/watch?v=JivuXdrIHK0
+- verificar se esta ativo o Game object - Criar gameobject para ficar com o script de verificaçã de inimigos e outros scripts
+
+
